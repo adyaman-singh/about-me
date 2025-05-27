@@ -65,3 +65,6 @@ Projects · Resume · Skills · Notes · Browser
 https://brewinstall.adyamansingh.xyz/
 
 Deployed on AWS Amplify
+
+
+YT Preview : https://youtu.be/dtusybGcJ50
