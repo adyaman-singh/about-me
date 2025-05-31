@@ -1,0 +1,6 @@
+{
+  "name": "Skeleton App",
+  "short_name": "Skeleton",
+  "start_url": ".",
+  "display": "standalone"
+}
